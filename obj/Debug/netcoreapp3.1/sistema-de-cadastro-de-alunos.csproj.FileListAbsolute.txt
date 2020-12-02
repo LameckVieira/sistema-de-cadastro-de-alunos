@@ -1,0 +1,4 @@
+C:\Users\Lameck\Desktop\C#\Sistema de cadastro de alunos\sistema-de-cadastro-de-alunos\obj\Debug\netcoreapp3.1\sistema-de-cadastro-de-alunos.csprojAssemblyReference.cache
+C:\Users\Lameck\Desktop\C#\Sistema de cadastro de alunos\sistema-de-cadastro-de-alunos\obj\Debug\netcoreapp3.1\sistema-de-cadastro-de-alunos.AssemblyInfoInputs.cache
+C:\Users\Lameck\Desktop\C#\Sistema de cadastro de alunos\sistema-de-cadastro-de-alunos\obj\Debug\netcoreapp3.1\sistema-de-cadastro-de-alunos.AssemblyInfo.cs
+C:\Users\Lameck\Desktop\C#\Sistema de cadastro de alunos\sistema-de-cadastro-de-alunos\obj\Debug\netcoreapp3.1\sistema-de-cadastro-de-alunos.csproj.CoreCompileInputs.cache
